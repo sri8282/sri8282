@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Srihari<br><br>💻 Java Developer | Full Stack Enthusiast | Problem Solver<br><br>I’m a passionate Java Developer with strong foundations in object-oriented programming, data structures, and backend development. I enjoy building scalable applications, designing clean APIs, and continuously improving my coding skills through real-world projects.<br><br>🚀 What I Do<br><br>Develop Java-based applications using clean and efficient code<br><br>Build backend services & RESTful APIs with Spring Boot<br><br>Create responsive frontend interfaces using HTML, CSS, JavaScript, and React<br><br>Work with databases like MySQL and MongoDB<br><br>Apply DSA & problem-solving techniques to write optimized solutions<br><br>🛠️ Tech Stack<br><br>Languages: Java, Python, C, C++<br><br>Backend: Spring Boot, REST APIs, Node.js<br><br>Frontend: HTML, CSS, JavaScript, React.js<br><br>Databases: MySQL, MongoDB<br><br>Tools: Git, GitHub, VS Code, IntelliJ IDEA<br><br>📚 Interests<br><br>Backend system design<br><br>Full Stack development<br><br>API optimization & clean architecture<br><br>Learning new technologies and best practices<br><br>🌱 Currently Learning<br><br>Advanced Spring Boot & Microservices<br><br>System design fundamentals<br><br>Performance optimization in Java<br><br>📫 Let’s connect and build something amazing!
+🔭 I’m currently working on Java backend and full stack web applications  <br>👯 I’m looking to collaborate on Java, Spring Boot, and REST API projects  <br>🤝 I’m looking for help with system design, clean architecture, and performance optimization  <br>🌱 I’m currently learning advanced Spring Boot, Microservices basics, and DSA  <br>💬 Ask me about Java, OOP concepts, backend development, and APIs  <br>⚡ Fun fact: I enjoy solving real-world problems using Java and logic 😄<br>
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sri8282&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sri8282&icon=0&color=0)](https://visitcount.itsvg.in)
